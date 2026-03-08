@@ -9,7 +9,7 @@
 
 # Principal Software Engineer 👋
 
-I LOVE CODING.
+I love coding just like I love my kids.
 
 
 ### :hammer_and_wrench: My Major Skill :  
