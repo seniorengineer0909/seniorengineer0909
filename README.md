@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=crveskig&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Senior Full Stack Developer 👋
+# Principal Software Engineer 👋
 
-As a seasoned Senior Full Stack Developer, I bring over 10 years of hands-on experience in the dynamic realm of the software industry. With a proven track record of delivering high-quality solutions, I specialize in crafting robust, scalable, and efficient software systems that meet and exceed client expectations. Proficient in a wide array of technologies and frameworks, I thrive in both front-end and back-end development environments. My expertise extends to seamlessly integrating DevOps practices to streamline development workflows and enhance deployment processes. With a keen eye for detail and a passion for innovation, I consistently strive to push boundaries and drive excellence in every project I undertake.
+I LOVE CODING.
 
 
 ### :hammer_and_wrench: My Major Skill :  
