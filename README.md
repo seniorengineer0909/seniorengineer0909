@@ -7,9 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=crveskig&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Principal Software Engineer 👋
-
-I love coding just like I love my kids.
+# I love coding just like I love my kids.  👋
 
 
 ### :hammer_and_wrench: My Major Skill :  
